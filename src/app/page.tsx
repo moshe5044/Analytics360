@@ -3,7 +3,7 @@ import Link from "next/link"
 export default function Home() {
     return (
         <main className="flex min-h-screen flex-col items-center justify-center bg-gray-900 text-white">
-            <div className="flex flex-col items-center">
+            <div className="flex flex-col items-center text-center">
                 <p className="text-3xl text-dark-tremor-content-strong font-semibold mb-10">
                     To the analytics page click on the button
                 </p>
